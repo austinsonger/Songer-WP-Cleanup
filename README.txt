@@ -27,41 +27,14 @@ It will help you:
 == Installation ==
 = Using The WordPress Dashboard =
 
-1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'wp-cleanup-and-basic-functions'
-3. Click 'Install Now'
-4. Activate the plugin on the Plugin dashboard
-5. Customize the setting by clicking on the "WordPress Cleanup and Basic Options Functions" menu tab
-
 = Uploading in WordPress Dashboard =
 
-1. Navigate to the 'Add New' in the plugins dashboard
-2. Navigate to the 'Upload' area
-3. Select `wp-cleanup-and-basic-functions.zip` from your computer
-4. Click 'Install Now'
-5. Activate the plugin in the Plugin dashboard
 
 == Frequently Asked Questions ==
 
-= How to use WordPress Cleanup and Basic Options Functions? =
-
-Just activate the plugin then go to the "Settings -> WP Cleanup" menu and just check the options you want.
-
-= Will WordPress Cleanup and Basic Options Functions slow my website? =
-
-Well this is actually the whole contrary, WordPress Cleanup and Basic Options Functions will reduce the cluter from your website head section getting rid of useless scripts and inline css.
-
-= I am not a developer, should i use that plugin =
-
-Yes, just make sure you know what the option will do before you check it. But all these options are pretty basic options and won't break your website.
 
 == Screenshots ==
 
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
 
 == Changelog ==
 
